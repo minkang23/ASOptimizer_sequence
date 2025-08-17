@@ -46,3 +46,23 @@ To perform sequence engineering with *your chosen setting*, use the following co
 
 - **Getting_ASOpt_top6.ipynb**: 
   - Shows a histogram depicting the predicted scores of complementary ASOs, each 19 nucleotides in length, targeting the IDO1 gene (Figure S2)
+
+### Citing this work
+Please cite the following paper if you find the code and data useful:
+```bash
+@article{ASOptimizer2024, 
+    title = {ASOptimizer: Optimizing antisense oligonucleotides through deep learning for IDO1 gene regulation}, 
+    author = {Hwang, Gyeongjo and Kwon, Mincheol and Seo, Dongjin and Kim, Dae Hoon and Lee, Daehwan and Lee, Kiwon and Kim, Eunyoung and Kang, Mingeun and Ryu, Jin-Hyeob}, 
+    journal = {Molecular Therapy - Nucleic Acids}, 
+    volume = {35}, 
+    number = {2}, 
+    pages = {102186}, 
+    year = {2024}, 
+    month = jun, 
+    DOI = {10.1016/j.omtn.2024.102186}, 
+    ISSN = {2162-2531}, 
+    publisher = {Elsevier BV}, 
+    url = {http://dx.doi.org/10.1016/j.omtn.2024.102186}}   
+```
+### User Licence
+> User License: Creative Commons Attribution – NonCommercial – NoDerivs (CC BY-NC-ND 4.0) | Elsevier's open access license policy
